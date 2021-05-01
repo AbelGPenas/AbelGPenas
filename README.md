@@ -1,4 +1,5 @@
 🙌 Data Scientist in progress and curious about everything.
+
 Passionate about learnign something new today to apply it tomorrow (or this evening, if possible!).
 
 <!---
